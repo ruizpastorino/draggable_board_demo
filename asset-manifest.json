@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/draggable_board_demo/static/css/main.591f128c.chunk.css",
-    "main.js": "/draggable_board_demo/static/js/main.383b3e76.chunk.js",
-    "main.js.map": "/draggable_board_demo/static/js/main.383b3e76.chunk.js.map",
+    "main.css": "/draggable_board_demo/static/css/main.8c8270a5.chunk.css",
+    "main.js": "/draggable_board_demo/static/js/main.4c87d8ff.chunk.js",
+    "main.js.map": "/draggable_board_demo/static/js/main.4c87d8ff.chunk.js.map",
     "runtime-main.js": "/draggable_board_demo/static/js/runtime-main.6682d64a.js",
     "runtime-main.js.map": "/draggable_board_demo/static/js/runtime-main.6682d64a.js.map",
     "static/js/2.3ec86ce5.chunk.js": "/draggable_board_demo/static/js/2.3ec86ce5.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.39065e6a.chunk.js": "/draggable_board_demo/static/js/3.39065e6a.chunk.js",
     "static/js/3.39065e6a.chunk.js.map": "/draggable_board_demo/static/js/3.39065e6a.chunk.js.map",
     "index.html": "/draggable_board_demo/index.html",
-    "static/css/main.591f128c.chunk.css.map": "/draggable_board_demo/static/css/main.591f128c.chunk.css.map",
+    "static/css/main.8c8270a5.chunk.css.map": "/draggable_board_demo/static/css/main.8c8270a5.chunk.css.map",
     "static/js/2.3ec86ce5.chunk.js.LICENSE.txt": "/draggable_board_demo/static/js/2.3ec86ce5.chunk.js.LICENSE.txt",
     "static/media/all.css": "/draggable_board_demo/static/media/fa-solid-900.f2d8806e.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.6682d64a.js",
     "static/js/2.3ec86ce5.chunk.js",
-    "static/css/main.591f128c.chunk.css",
-    "static/js/main.383b3e76.chunk.js"
+    "static/css/main.8c8270a5.chunk.css",
+    "static/js/main.4c87d8ff.chunk.js"
   ]
 }
