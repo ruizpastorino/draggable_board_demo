@@ -52,8 +52,8 @@ const App = () => {
       )}
       <div className="container">
         <div className="row">
-          <h2 className="flex-1">Tableros Activos</h2>
-          <i style={{ color: "orange", fontSize: "30px" }} className="fas fa-plus-circle" onClick={() => setNewBoard(true)} />
+          <h3 className="flex-1">Tableros Activos</h3>
+          <i style={{ color: "orange", fontSize: "20px" }} className="fas fa-plus-circle" onClick={() => setNewBoard(true)} />
         </div>
         <div className="boards-container">
           {boards.length ? (

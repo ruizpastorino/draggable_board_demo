@@ -65,9 +65,9 @@ const Board = ({ boards, board, updateBoards, remove, edit: editBoard, params, s
     <div draggable className="board-container" onDragEnter={dragging && !board.tasks.length ? () => handleDragEnter(board, dragging) : null}>
       <div style={{ backgroundColor: color }} className="board-title">
         <div style={{ alignItems: "center" }} className="row">
-          <h2 className="flex-1">
+          <h4 className="flex-1">
             {title} ({board.tasks.length})
-          </h2>
+          </h4>
           <i className="fas fa-plus-circle" onClick={() => setNewTask(true)} />
           <i className="fas fa-edit" onClick={() => editBoard(board)} />
           <i className="fas fa-times" onClick={remove} />
@@ -92,7 +92,7 @@ const Board = ({ boards, board, updateBoards, remove, edit: editBoard, params, s
         ) : (
           <div className="empty">
             <i className="fas fa-file" />
-            <h2>Sin tareas</h2>
+            <h4>Sin tareas</h4>
           </div>
         )}
       </div>
